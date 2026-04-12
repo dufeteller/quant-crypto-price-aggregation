@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Local datasets and documents (private / non-shareable)
+*.csv
+*.parquet
+*.feather
+*.pdf
+
+# Optional output folders
+data/raw/
+data/private/
+results/
+figures/
+
+# macOS
+.DS_Store
